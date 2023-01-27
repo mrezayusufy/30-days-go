@@ -1,0 +1,2 @@
+### 30 days go
+This repository is dedicated to my 30-day journey of learning the Go programming language. Here, I will document my progress and share the resources I use to learn Go. I will also post code snippets and projects that I create as part of my learning process. Join me in this journey and let's explore the world of Go together!
